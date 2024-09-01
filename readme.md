@@ -19,3 +19,6 @@ This website is optimized for responsive web design.
 ![alt text](https://github.com/ankitnigam08091985/HTML_CSS_website_1/blob/master/Website_image_2.png)
 
 ![alt text](https://github.com/ankitnigam08091985/HTML_CSS_website_1/blob/master/Website_image_3.png)
+
+
+In future more pages will be added in this website.
