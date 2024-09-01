@@ -12,3 +12,4 @@ Any images/logs used in Website are under the below directories
 - images
 - images/logos
 
+This website is optimized for responsive web designing.
