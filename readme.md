@@ -22,3 +22,4 @@ This website is optimized for responsive web design.
 
 
 In future more pages will be added in this website.
+Javascript support will be added.
